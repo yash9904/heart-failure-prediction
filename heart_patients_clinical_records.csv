@@ -1,0 +1,300 @@
+age,anaemia,creatinine_phosphokinase,diabetes,ejection_fraction,high_blood_pressure,platelets,serum_creatinine,serum_sodium,sex,smoking,time,DEATH_EVENT
+75,No,582,No,20,Yes,265000,1.9,130,M,No,4,Deceased
+55,No,7861,No,38,No,263358.03,1.1,136,M,No,6,Deceased
+65,No,146,No,20,No,162000,1.3,129,M,Yes,7,Deceased
+50,Yes,111,No,20,No,210000,1.9,137,M,No,7,Deceased
+65,Yes,160,Yes,20,No,327000,2.7,116,F,No,8,Deceased
+90,Yes,47,No,40,Yes,204000,2.1,132,M,Yes,8,Deceased
+75,Yes,246,No,15,No,127000,1.2,137,M,No,10,Deceased
+60,Yes,315,Yes,60,No,454000,1.1,131,M,Yes,10,Deceased
+65,No,157,No,65,No,263358.03,1.5,138,F,No,10,Deceased
+80,Yes,123,No,35,Yes,388000,9.4,133,M,Yes,10,Deceased
+75,Yes,81,No,38,Yes,368000,4,131,M,Yes,10,Deceased
+62,No,231,No,25,Yes,253000,0.9,140,M,Yes,10,Deceased
+45,Yes,981,No,30,No,136000,1.1,137,M,No,11,Deceased
+50,Yes,168,No,38,Yes,276000,1.1,137,M,No,11,Deceased
+49,Yes,80,No,30,Yes,427000,1,138,F,No,12,Not Deceased
+82,Yes,379,No,50,No,47000,1.3,136,M,No,13,Deceased
+87,Yes,149,No,38,No,262000,0.9,140,M,No,14,Deceased
+45,No,582,No,14,No,166000,0.8,127,M,No,14,Deceased
+70,Yes,125,No,25,Yes,237000,1,140,F,No,15,Deceased
+48,Yes,582,Yes,55,No,87000,1.9,121,F,No,15,Deceased
+65,Yes,52,No,25,Yes,276000,1.3,137,F,No,16,Not Deceased
+65,Yes,128,Yes,30,Yes,297000,1.6,136,F,No,20,Deceased
+68,Yes,220,No,35,Yes,289000,0.9,140,M,Yes,20,Deceased
+53,No,63,Yes,60,No,368000,0.8,135,M,No,22,Not Deceased
+75,No,582,Yes,30,Yes,263358.03,1.83,134,F,No,23,Deceased
+80,No,148,Yes,38,No,149000,1.9,144,M,Yes,23,Deceased
+95,Yes,112,No,40,Yes,196000,1,138,F,No,24,Deceased
+70,No,122,Yes,45,Yes,284000,1.3,136,M,Yes,26,Deceased
+58,Yes,60,No,38,No,153000,5.8,134,M,No,26,Deceased
+82,No,70,Yes,30,No,200000,1.2,132,M,Yes,26,Deceased
+94,No,582,Yes,38,Yes,263358.03,1.83,134,M,No,27,Deceased
+85,No,23,No,45,No,360000,3,132,M,No,28,Deceased
+50,Yes,249,Yes,35,Yes,319000,1,128,F,No,28,Deceased
+50,Yes,159,Yes,30,No,302000,1.2,138,F,No,29,Not Deceased
+65,No,94,Yes,50,Yes,188000,1,140,M,No,29,Deceased
+69,No,582,Yes,35,No,228000,3.5,134,M,No,30,Deceased
+90,Yes,60,Yes,50,No,226000,1,134,M,No,30,Deceased
+82,Yes,855,Yes,50,Yes,321000,1,145,F,No,30,Deceased
+60,No,2656,Yes,30,No,305000,2.3,137,M,No,30,Not Deceased
+60,No,235,Yes,38,No,329000,3,142,F,No,30,Deceased
+70,No,582,No,20,Yes,263358.03,1.83,134,M,Yes,31,Deceased
+50,No,124,Yes,30,Yes,153000,1.2,136,F,Yes,32,Deceased
+70,No,571,Yes,45,Yes,185000,1.2,139,M,Yes,33,Deceased
+72,No,127,Yes,50,Yes,218000,1,134,M,No,33,Not Deceased
+60,Yes,588,Yes,60,No,194000,1.1,142,F,No,33,Deceased
+50,No,582,Yes,38,No,310000,1.9,135,M,Yes,35,Deceased
+51,No,1380,No,25,Yes,271000,0.9,130,M,No,38,Deceased
+60,No,582,Yes,38,Yes,451000,0.6,138,M,Yes,40,Deceased
+80,Yes,553,No,20,Yes,140000,4.4,133,M,No,41,Deceased
+57,Yes,129,No,30,No,395000,1,140,F,No,42,Deceased
+68,Yes,577,No,25,Yes,166000,1,138,M,No,43,Deceased
+53,Yes,91,No,20,Yes,418000,1.4,139,F,No,43,Deceased
+60,No,3964,Yes,62,No,263358.03,6.8,146,F,No,43,Deceased
+70,Yes,69,Yes,50,Yes,351000,1,134,F,No,44,Deceased
+60,Yes,260,Yes,38,No,255000,2.2,132,F,Yes,45,Deceased
+95,Yes,371,No,30,No,461000,2,132,M,No,50,Deceased
+70,Yes,75,No,35,No,223000,2.7,138,M,Yes,54,Not Deceased
+60,Yes,607,No,40,No,216000,0.6,138,M,Yes,54,Not Deceased
+49,No,789,No,20,Yes,319000,1.1,136,M,Yes,55,Deceased
+72,No,364,Yes,20,Yes,254000,1.3,136,M,Yes,59,Deceased
+45,No,7702,Yes,25,Yes,390000,1,139,M,No,60,Deceased
+50,No,318,No,40,Yes,216000,2.3,131,F,No,60,Deceased
+55,No,109,No,35,No,254000,1.1,139,M,Yes,60,Not Deceased
+45,No,582,No,35,No,385000,1,145,M,No,61,Deceased
+45,No,582,No,80,No,263358.03,1.18,137,F,No,63,Not Deceased
+60,No,68,No,20,No,119000,2.9,127,M,Yes,64,Deceased
+42,Yes,250,Yes,15,No,213000,1.3,136,F,No,65,Deceased
+72,Yes,110,No,25,No,274000,1,140,M,Yes,65,Deceased
+70,No,161,No,25,No,244000,1.2,142,F,No,66,Deceased
+65,No,113,Yes,25,No,497000,1.83,135,M,No,67,Deceased
+41,No,148,No,40,No,374000,0.8,140,M,Yes,68,Not Deceased
+58,No,582,Yes,35,No,122000,0.9,139,M,Yes,71,Not Deceased
+85,No,5882,No,35,No,243000,1,132,M,Yes,72,Deceased
+65,No,224,Yes,50,No,149000,1.3,137,M,Yes,72,Not Deceased
+69,No,582,No,20,No,266000,1.2,134,M,Yes,73,Deceased
+60,Yes,47,No,20,No,204000,0.7,139,M,Yes,73,Deceased
+70,No,92,No,60,Yes,317000,0.8,140,F,Yes,74,Not Deceased
+42,No,102,Yes,40,No,237000,1.2,140,M,No,74,Not Deceased
+75,Yes,203,Yes,38,Yes,283000,0.6,131,M,Yes,74,Not Deceased
+55,No,336,No,45,Yes,324000,0.9,140,F,No,74,Not Deceased
+70,No,69,No,40,No,293000,1.7,136,F,No,75,Not Deceased
+67,No,582,No,50,No,263358.03,1.18,137,M,Yes,76,Not Deceased
+60,Yes,76,Yes,25,No,196000,2.5,132,F,No,77,Deceased
+79,Yes,55,No,50,Yes,172000,1.8,133,M,No,78,Not Deceased
+59,Yes,280,Yes,25,Yes,302000,1,141,F,No,78,Deceased
+51,No,78,No,50,No,406000,0.7,140,M,No,79,Not Deceased
+55,No,47,No,35,Yes,173000,1.1,137,M,No,79,Not Deceased
+65,Yes,68,Yes,60,Yes,304000,0.8,140,M,No,79,Not Deceased
+44,No,84,Yes,40,Yes,235000,0.7,139,M,No,79,Not Deceased
+57,Yes,115,No,25,Yes,181000,1.1,144,M,No,79,Not Deceased
+70,No,66,Yes,45,No,249000,0.8,136,M,Yes,80,Not Deceased
+60,No,897,Yes,45,No,297000,1,133,M,No,80,Not Deceased
+42,No,582,No,60,No,263358.03,1.18,137,F,No,82,Not Deceased
+60,Yes,154,No,25,No,210000,1.7,135,M,No,82,Deceased
+58,No,144,Yes,38,Yes,327000,0.7,142,F,No,83,Not Deceased
+58,Yes,133,No,60,Yes,219000,1,141,M,No,83,Not Deceased
+63,Yes,514,Yes,25,Yes,254000,1.3,134,M,No,83,Not Deceased
+70,Yes,59,No,60,No,255000,1.1,136,F,No,85,Not Deceased
+60,Yes,156,Yes,25,Yes,318000,1.2,137,F,No,85,Not Deceased
+63,Yes,61,Yes,40,No,221000,1.1,140,F,No,86,Not Deceased
+65,Yes,305,No,25,No,298000,1.1,141,M,No,87,Not Deceased
+75,No,582,No,45,Yes,263358.03,1.18,137,M,No,87,Not Deceased
+80,No,898,No,25,No,149000,1.1,144,M,Yes,87,Not Deceased
+42,No,5209,No,30,No,226000,1,140,M,Yes,87,Not Deceased
+60,No,53,No,50,Yes,286000,2.3,143,F,No,87,Not Deceased
+72,Yes,328,No,30,Yes,621000,1.7,138,F,Yes,88,Deceased
+55,No,748,No,45,No,263000,1.3,137,M,No,88,Not Deceased
+45,Yes,1876,Yes,35,No,226000,0.9,138,M,No,88,Not Deceased
+63,No,936,No,38,No,304000,1.1,133,M,Yes,88,Not Deceased
+45,No,292,Yes,35,No,850000,1.3,142,M,Yes,88,Not Deceased
+85,No,129,No,60,No,306000,1.2,132,M,Yes,90,Deceased
+55,No,60,No,35,No,228000,1.2,135,M,Yes,90,Not Deceased
+50,No,369,Yes,25,No,252000,1.6,136,M,No,90,Not Deceased
+70,Yes,143,No,60,No,351000,1.3,137,F,No,90,Deceased
+60,Yes,754,Yes,40,Yes,328000,1.2,126,M,No,91,Not Deceased
+58,Yes,400,No,40,No,164000,1,139,F,No,91,Not Deceased
+60,Yes,96,Yes,60,Yes,271000,0.7,136,F,No,94,Not Deceased
+85,Yes,102,No,60,No,507000,3.2,138,F,No,94,Not Deceased
+65,Yes,113,Yes,60,Yes,203000,0.9,140,F,No,94,Not Deceased
+86,No,582,No,38,No,263358.03,1.83,134,F,No,95,Deceased
+60,Yes,737,No,60,Yes,210000,1.5,135,M,Yes,95,Not Deceased
+66,Yes,68,Yes,38,Yes,162000,1,136,F,No,95,Not Deceased
+60,No,96,Yes,38,No,228000,0.75,140,F,No,95,Not Deceased
+60,Yes,582,No,30,Yes,127000,0.9,145,F,No,95,Not Deceased
+60,No,582,No,40,No,217000,3.7,134,M,No,96,Deceased
+43,Yes,358,No,50,No,237000,1.3,135,F,No,97,Not Deceased
+46,No,168,Yes,17,Yes,271000,2.1,124,F,No,100,Deceased
+58,Yes,200,Yes,60,No,300000,0.8,137,F,No,104,Not Deceased
+61,No,248,No,30,Yes,267000,0.7,136,M,Yes,104,Not Deceased
+53,Yes,270,Yes,35,No,227000,3.4,145,M,No,105,Not Deceased
+53,Yes,1808,No,60,Yes,249000,0.7,138,M,Yes,106,Not Deceased
+60,Yes,1082,Yes,45,No,250000,6.1,131,M,No,107,Not Deceased
+46,No,719,No,40,Yes,263358.03,1.18,137,F,No,107,Not Deceased
+63,No,193,No,60,Yes,295000,1.3,145,M,Yes,107,Not Deceased
+81,No,4540,No,35,No,231000,1.18,137,M,Yes,107,Not Deceased
+75,No,582,No,40,No,263358.03,1.18,137,M,No,107,Not Deceased
+65,Yes,59,Yes,60,No,172000,0.9,137,F,No,107,Not Deceased
+68,Yes,646,No,25,No,305000,2.1,130,M,No,108,Not Deceased
+62,No,281,Yes,35,No,221000,1,136,F,No,108,Not Deceased
+50,No,1548,No,30,Yes,211000,0.8,138,M,No,108,Not Deceased
+80,No,805,No,38,No,263358.03,1.1,134,M,No,109,Deceased
+46,Yes,291,No,35,No,348000,0.9,140,F,No,109,Not Deceased
+50,No,482,Yes,30,No,329000,0.9,132,F,No,109,Not Deceased
+61,Yes,84,No,40,Yes,229000,0.9,141,F,No,110,Not Deceased
+72,Yes,943,No,25,Yes,338000,1.7,139,M,Yes,111,Deceased
+50,No,185,No,30,No,266000,0.7,141,M,Yes,112,Not Deceased
+52,No,132,No,30,No,218000,0.7,136,M,Yes,112,Not Deceased
+64,No,1610,No,60,No,242000,1,137,M,No,113,Not Deceased
+75,Yes,582,No,30,No,225000,1.83,134,M,No,113,Deceased
+60,No,2261,No,35,Yes,228000,0.9,136,M,No,115,Not Deceased
+72,No,233,No,45,Yes,235000,2.5,135,F,No,115,Deceased
+62,No,30,Yes,60,Yes,244000,0.9,139,M,No,117,Not Deceased
+50,No,115,No,45,Yes,184000,0.9,134,M,Yes,118,Not Deceased
+50,No,1846,Yes,35,No,263358.03,1.18,137,M,Yes,119,Not Deceased
+65,Yes,335,No,35,Yes,235000,0.8,136,F,No,120,Not Deceased
+60,Yes,231,Yes,25,No,194000,1.7,140,M,No,120,Not Deceased
+52,Yes,58,No,35,No,277000,1.4,136,F,No,120,Not Deceased
+50,No,250,No,25,No,262000,1,136,M,Yes,120,Not Deceased
+85,Yes,910,No,50,No,235000,1.3,134,M,No,121,Not Deceased
+59,Yes,129,No,45,Yes,362000,1.1,139,M,Yes,121,Not Deceased
+66,Yes,72,No,40,Yes,242000,1.2,134,M,No,121,Not Deceased
+45,Yes,130,No,35,No,174000,0.8,139,M,Yes,121,Not Deceased
+63,Yes,582,No,40,No,448000,0.9,137,M,Yes,123,Not Deceased
+50,Yes,2334,Yes,35,No,75000,0.9,142,F,No,126,Deceased
+45,No,2442,Yes,30,No,334000,1.1,139,M,No,129,Deceased
+80,No,776,Yes,38,Yes,192000,1.3,135,F,No,130,Deceased
+53,No,196,No,60,No,220000,0.7,133,M,Yes,134,Not Deceased
+59,No,66,Yes,20,No,70000,2.4,134,M,No,135,Deceased
+65,No,582,Yes,40,No,270000,1,138,F,No,140,Not Deceased
+70,No,835,No,35,Yes,305000,0.8,133,F,No,145,Not Deceased
+51,Yes,582,Yes,35,No,263358.03,1.5,136,M,Yes,145,Not Deceased
+52,No,3966,No,40,No,325000,0.9,140,M,Yes,146,Not Deceased
+70,Yes,171,No,60,Yes,176000,1.1,145,M,Yes,146,Not Deceased
+50,Yes,115,No,20,No,189000,0.8,139,M,No,146,Not Deceased
+65,No,198,Yes,35,Yes,281000,0.9,137,M,Yes,146,Not Deceased
+60,Yes,95,No,60,No,337000,1,138,M,Yes,146,Not Deceased
+69,No,1419,No,40,No,105000,1,135,M,Yes,147,Not Deceased
+49,Yes,69,No,50,No,132000,1,140,F,No,147,Not Deceased
+63,Yes,122,Yes,60,No,267000,1.2,145,M,No,147,Not Deceased
+55,No,835,No,40,No,279000,0.7,140,M,Yes,147,Not Deceased
+40,No,478,Yes,30,No,303000,0.9,136,M,No,148,Not Deceased
+59,Yes,176,Yes,25,No,221000,1,136,M,Yes,150,Deceased
+65,No,395,Yes,25,No,265000,1.2,136,M,Yes,154,Deceased
+75,No,99,No,38,Yes,224000,2.5,134,M,No,162,Deceased
+58,Yes,145,No,25,No,219000,1.2,137,M,Yes,170,Deceased
+60.667,Yes,104,Yes,30,No,389000,1.5,136,M,No,171,Deceased
+50,No,582,No,50,No,153000,0.6,134,F,No,172,Deceased
+60,No,1896,Yes,25,No,365000,2.1,144,F,No,172,Deceased
+60.667,Yes,151,Yes,40,Yes,201000,1,136,F,No,172,Not Deceased
+40,No,244,No,45,Yes,275000,0.9,140,F,No,174,Not Deceased
+80,No,582,Yes,35,No,350000,2.1,134,M,No,174,Not Deceased
+64,Yes,62,No,60,No,309000,1.5,135,F,No,174,Not Deceased
+50,Yes,121,Yes,40,No,260000,0.7,130,M,No,175,Not Deceased
+73,Yes,231,Yes,30,No,160000,1.18,142,M,Yes,180,Not Deceased
+45,No,582,No,20,Yes,126000,1.6,135,M,No,180,Deceased
+77,Yes,418,No,45,No,223000,1.8,145,M,No,180,Deceased
+45,No,582,Yes,38,Yes,263358.03,1.18,137,F,No,185,Not Deceased
+65,No,167,No,30,No,259000,0.8,138,F,No,186,Not Deceased
+50,Yes,582,Yes,20,Yes,279000,1,134,F,No,186,Not Deceased
+60,No,1211,Yes,35,No,263358.03,1.8,113,M,Yes,186,Not Deceased
+63,Yes,1767,No,45,No,73000,0.7,137,M,No,186,Not Deceased
+45,No,308,Yes,60,Yes,377000,1,136,M,No,186,Not Deceased
+70,No,97,No,60,Yes,220000,0.9,138,M,No,186,Not Deceased
+60,No,59,No,25,Yes,212000,3.5,136,M,Yes,187,Not Deceased
+78,Yes,64,No,40,No,277000,0.7,137,M,Yes,187,Not Deceased
+50,Yes,167,Yes,45,No,362000,1,136,F,No,187,Not Deceased
+40,Yes,101,No,40,No,226000,0.8,141,F,No,187,Not Deceased
+85,No,212,No,38,No,186000,0.9,136,M,No,187,Not Deceased
+60,Yes,2281,Yes,40,No,283000,1,141,F,No,187,Not Deceased
+49,No,972,Yes,35,Yes,268000,0.8,130,F,No,187,Not Deceased
+70,No,212,Yes,17,Yes,389000,1,136,M,Yes,188,Not Deceased
+50,No,582,No,62,Yes,147000,0.8,140,M,Yes,192,Not Deceased
+78,No,224,No,50,No,481000,1.4,138,M,Yes,192,Not Deceased
+48,Yes,131,Yes,30,Yes,244000,1.6,130,F,No,193,Deceased
+65,Yes,135,No,35,Yes,290000,0.8,134,M,No,194,Not Deceased
+73,No,582,No,35,Yes,203000,1.3,134,M,No,195,Not Deceased
+70,No,1202,No,50,Yes,358000,0.9,141,F,No,196,Not Deceased
+54,Yes,427,No,70,Yes,151000,9,137,F,No,196,Deceased
+68,Yes,1021,Yes,35,No,271000,1.1,134,M,No,197,Not Deceased
+55,No,582,Yes,35,Yes,371000,0.7,140,F,No,197,Not Deceased
+73,No,582,No,20,No,263358.03,1.83,134,M,No,198,Deceased
+65,No,118,No,50,No,194000,1.1,145,M,Yes,200,Not Deceased
+42,Yes,86,No,35,No,365000,1.1,139,M,Yes,201,Not Deceased
+47,No,582,No,25,No,130000,0.8,134,M,No,201,Not Deceased
+58,No,582,Yes,25,No,504000,1,138,M,No,205,Not Deceased
+75,No,675,Yes,60,No,265000,1.4,125,F,No,205,Not Deceased
+58,Yes,57,No,25,No,189000,1.3,132,M,Yes,205,Not Deceased
+55,Yes,2794,No,35,Yes,141000,1,140,M,No,206,Not Deceased
+65,No,56,No,25,No,237000,5,130,F,No,207,Not Deceased
+72,No,211,No,25,No,274000,1.2,134,F,No,207,Not Deceased
+60,No,166,No,30,No,62000,1.7,127,F,No,207,Deceased
+70,No,93,No,35,No,185000,1.1,134,M,Yes,208,Not Deceased
+40,Yes,129,No,35,No,255000,0.9,137,M,No,209,Not Deceased
+53,Yes,707,No,38,No,330000,1.4,137,M,Yes,209,Not Deceased
+53,Yes,582,No,45,No,305000,1.1,137,M,Yes,209,Not Deceased
+77,Yes,109,No,50,Yes,406000,1.1,137,M,No,209,Not Deceased
+75,No,119,No,50,Yes,248000,1.1,148,M,No,209,Not Deceased
+70,No,232,No,30,No,173000,1.2,132,M,No,210,Not Deceased
+65,Yes,720,Yes,40,No,257000,1,136,F,No,210,Not Deceased
+55,Yes,180,No,45,No,263358.03,1.18,137,M,Yes,211,Not Deceased
+70,No,81,Yes,35,Yes,533000,1.3,139,F,No,212,Not Deceased
+65,No,582,Yes,30,No,249000,1.3,136,M,Yes,212,Not Deceased
+40,No,90,No,35,No,255000,1.1,136,M,Yes,212,Not Deceased
+73,Yes,1185,No,40,Yes,220000,0.9,141,F,No,213,Not Deceased
+54,No,582,Yes,38,No,264000,1.8,134,M,No,213,Not Deceased
+61,Yes,80,Yes,38,No,282000,1.4,137,M,No,213,Not Deceased
+55,No,2017,No,25,No,314000,1.1,138,M,No,214,Deceased
+64,No,143,No,25,No,246000,2.4,135,M,No,214,Not Deceased
+40,No,624,No,35,No,301000,1,142,M,Yes,214,Not Deceased
+53,No,207,Yes,40,No,223000,1.2,130,F,No,214,Not Deceased
+50,No,2522,No,30,Yes,404000,0.5,139,F,No,214,Not Deceased
+55,No,572,Yes,35,No,231000,0.8,143,F,No,215,Not Deceased
+50,No,245,No,45,Yes,274000,1,133,M,No,215,Not Deceased
+70,No,88,Yes,35,Yes,236000,1.2,132,F,No,215,Not Deceased
+53,Yes,446,No,60,Yes,263358.03,1,139,M,No,215,Not Deceased
+52,Yes,191,Yes,30,Yes,334000,1,142,M,Yes,216,Not Deceased
+65,No,326,No,38,No,294000,1.7,139,F,No,220,Not Deceased
+58,No,132,Yes,38,Yes,253000,1,139,M,No,230,Not Deceased
+45,Yes,66,Yes,25,No,233000,0.8,135,M,No,230,Not Deceased
+53,No,56,No,50,No,308000,0.7,135,M,Yes,231,Not Deceased
+55,No,66,No,40,No,203000,1,138,M,No,233,Not Deceased
+62,Yes,655,No,40,No,283000,0.7,133,F,No,233,Not Deceased
+65,Yes,258,Yes,25,No,198000,1.4,129,M,No,235,Deceased
+68,Yes,157,Yes,60,No,208000,1,140,F,No,237,Not Deceased
+61,No,582,Yes,38,No,147000,1.2,141,M,No,237,Not Deceased
+50,Yes,298,No,35,No,362000,0.9,140,M,Yes,240,Not Deceased
+55,No,1199,No,20,No,263358.03,1.83,134,M,Yes,241,Deceased
+56,Yes,135,Yes,38,No,133000,1.7,140,M,No,244,Not Deceased
+45,No,582,Yes,38,No,302000,0.9,140,F,No,244,Not Deceased
+40,No,582,Yes,35,No,222000,1,132,M,No,244,Not Deceased
+44,No,582,Yes,30,Yes,263358.03,1.6,130,M,Yes,244,Not Deceased
+51,No,582,Yes,40,No,221000,0.9,134,F,No,244,Not Deceased
+67,No,213,No,38,No,215000,1.2,133,F,No,245,Not Deceased
+42,No,64,No,40,No,189000,0.7,140,M,No,245,Not Deceased
+60,Yes,257,Yes,30,No,150000,1,137,M,Yes,245,Not Deceased
+45,No,582,No,38,Yes,422000,0.8,137,F,No,245,Not Deceased
+70,No,618,No,35,No,327000,1.1,142,F,No,245,Not Deceased
+70,No,582,Yes,38,No,25100,1.1,140,M,No,246,Not Deceased
+50,Yes,1051,Yes,30,No,232000,0.7,136,F,No,246,Not Deceased
+55,No,84,Yes,38,No,451000,1.3,136,F,No,246,Not Deceased
+70,No,2695,Yes,40,No,241000,1,137,M,No,247,Not Deceased
+70,No,582,No,40,No,51000,2.7,136,M,Yes,250,Not Deceased
+42,No,64,No,30,No,215000,3.8,128,M,Yes,250,Not Deceased
+65,No,1688,No,38,No,263358.03,1.1,138,M,Yes,250,Not Deceased
+50,Yes,54,No,40,No,279000,0.8,141,M,No,250,Not Deceased
+55,Yes,170,Yes,40,No,336000,1.2,135,M,No,250,Not Deceased
+60,No,253,No,35,No,279000,1.7,140,M,No,250,Not Deceased
+45,No,582,Yes,55,No,543000,1,132,F,No,250,Not Deceased
+65,No,892,Yes,35,No,263358.03,1.1,142,F,No,256,Not Deceased
+90,Yes,337,No,38,No,390000,0.9,144,F,No,256,Not Deceased
+45,No,615,Yes,55,No,222000,0.8,141,F,No,257,Not Deceased
+60,No,320,No,35,No,133000,1.4,139,M,No,258,Not Deceased
+52,No,190,Yes,38,No,382000,1,140,M,Yes,258,Not Deceased
+63,Yes,103,Yes,35,No,179000,0.9,136,M,Yes,270,Not Deceased
+62,No,61,Yes,38,Yes,155000,1.1,143,M,Yes,270,Not Deceased
+55,No,1820,No,38,No,270000,1.2,139,F,No,271,Not Deceased
+45,No,2060,Yes,60,No,742000,0.8,138,F,No,278,Not Deceased
+45,No,2413,No,38,No,140000,1.4,140,M,Yes,280,Not Deceased
+50,No,196,No,45,No,395000,1.6,136,M,Yes,285,Not Deceased
