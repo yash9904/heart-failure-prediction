@@ -21,7 +21,7 @@
 ##### Binary Data pie plots:
 ##### ![logistic bin plots](https://user-images.githubusercontent.com/86224563/133209520-e2b15993-a5fc-4496-9ce9-0492d551f4a9.PNG)
 ##### Distribution plots:
-##### ![logistic histograms](https://user-images.githubusercontent.com/86224563/133209432-e81e5afb-fdf5-41e9-9820-a31141bc8804.png)
+##### ![logistic histograms](https://user-images.githubusercontent.com/86224563/133210905-168120ef-8efa-4b9e-870d-5dc23d6751bf.png)
 ### Conclusions of the Regression Model
 ##### Contributions of the features:
 ##### ![logistic Contributions](https://user-images.githubusercontent.com/86224563/133209750-3ef6ffab-20d1-4a9f-89ea-8e72c75a61f5.PNG)
