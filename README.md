@@ -18,11 +18,16 @@
 | Time                          | Follow-up period                                | 
 | DEATH_EVENT                   | If the patient died during the follow-up period | 
 #### Exploratory Data Analysis
-##### Binary Data pie plots:
+##### 1. Binary Data pie plots:
 ##### ![logistic bin plots](https://user-images.githubusercontent.com/86224563/133209520-e2b15993-a5fc-4496-9ce9-0492d551f4a9.PNG)
-##### Distribution plots:
+##### 2. Distribution plots:
 ##### ![logistic histograms](https://user-images.githubusercontent.com/86224563/133210905-168120ef-8efa-4b9e-870d-5dc23d6751bf.png)
 ### Conclusions of the Logistic Regression Model
-##### Contributions of the features:
+##### 1. Contributions of the features:
 ##### ![logistic Contributions](https://user-images.githubusercontent.com/86224563/133209750-3ef6ffab-20d1-4a9f-89ea-8e72c75a61f5.PNG)
 ##### Sex, smoking, platelets, high blood pressure, diabetes, creatinine phosphokinase and anaemia doesnt contribute much as compared to other Features to the model.
+##### 2. Accuracy on train and test data:
+##### ![logistic accuracy](https://user-images.githubusercontent.com/86224563/133214465-3953cfd7-7cff-4784-be55-6fdaeed12147.PNG)
+##### Model seems to be good enough with predictions.
+##### 3. Confusion Matrix:
+##### ![logistic confusion matrix](https://user-images.githubusercontent.com/86224563/133214548-714615cc-0ebf-4c1a-b135-485402ed4145.PNG)
