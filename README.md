@@ -20,6 +20,8 @@
 #### Exploratory Data Analysis
 - Binary Data pie plots:
 ##### ![logistic bin plots](https://user-images.githubusercontent.com/86224563/133209520-e2b15993-a5fc-4496-9ce9-0492d551f4a9.PNG)
+##### About 30% patients' heart failed during the follow up period.
+##### Among the patients. about 45% of anemic and 45% were diabetic.
 - Distribution plots:
 ##### ![logistic histograms](https://user-images.githubusercontent.com/86224563/133210905-168120ef-8efa-4b9e-870d-5dc23d6751bf.png)
 ### Conclusions of the Logistic Regression Model
