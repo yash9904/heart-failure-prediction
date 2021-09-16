@@ -28,6 +28,6 @@
 ##### Sex, smoking, platelets, high blood pressure, diabetes, creatinine phosphokinase and anaemia doesnt contribute much as compared to other Features to the model.
 - Accuracy on train and test data:
 ##### ![logistic accuracy](https://user-images.githubusercontent.com/86224563/133214465-3953cfd7-7cff-4784-be55-6fdaeed12147.PNG)
-##### Model seems to be good enough with predictions.
+##### The model seems to be good enough with predictions.
 - Confusion Matrix:
 ##### ![logistic confusion matrix](https://user-images.githubusercontent.com/86224563/133214548-714615cc-0ebf-4c1a-b135-485402ed4145.PNG)
