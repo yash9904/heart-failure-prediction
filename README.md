@@ -17,11 +17,12 @@
 | Smoking                       | If the patient smokes                           | 
 | Time                          | Follow-up period                                | 
 | DEATH_EVENT                   | If the patient died during the follow-up period | 
+##### The dataset can be found on [kaggle](https://www.kaggle.com/andrewmvd/heart-failure-clinical-data).
 #### Exploratory Data Analysis
 - Binary Data pie plots:
 ##### ![fixed pie](https://user-images.githubusercontent.com/86224563/135388398-8a5f9d17-35d7-4cd0-8507-5f98bb4edb3d.PNG)
--About 30% patients' heart failed during the follow up period.</br>
--Among the patients, about 45% were anemic and 45% were diabetic.
+-About 31% patients' heart failed during the follow up period.</br>
+-The dataset doesn't seem to be balanced between male and female patients.
 - Distribution plots:
 ##### ![logistic histograms](https://user-images.githubusercontent.com/86224563/133210905-168120ef-8efa-4b9e-870d-5dc23d6751bf.png)
 ##### The disctribution plots shows where the features are most populated at.
