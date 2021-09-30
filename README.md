@@ -19,7 +19,7 @@
 | DEATH_EVENT                   | If the patient died during the follow-up period | 
 #### Exploratory Data Analysis
 - Binary Data pie plots:
-##### ![logistic bin plots](https://user-images.githubusercontent.com/86224563/133209520-e2b15993-a5fc-4496-9ce9-0492d551f4a9.PNG)
+##### ![fixed pie](https://user-images.githubusercontent.com/86224563/135388398-8a5f9d17-35d7-4cd0-8507-5f98bb4edb3d.PNG)
 -About 30% patients' heart failed during the follow up period.</br>
 -Among the patients, about 45% were anemic and 45% were diabetic.
 - Distribution plots:
